@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+  flex-wrap: wrap;
+}
+
+.bg-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inputt {
+  margin-bottom: 30px;
+  width: 300px;
+}
+
+.searchbox {
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  height: 20px;
+}
